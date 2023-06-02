@@ -1,0 +1,2 @@
+untuk install npm, bisa dicoba dengan command npm i --legacy-peer-deps. dikarenakan saya pakai react 18. 
+" This is MUI's problem with the new version of react. They are working to release a new version of Material UI. in the meantime we can solve this problem by using --legacy-peer-deps."
